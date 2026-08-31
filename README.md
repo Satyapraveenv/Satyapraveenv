@@ -1,7 +1,11 @@
 Satya Praveen Vemuri
 Principal Consultant, Strategic Accounts | Enterprise Program Governance & AI Transformation Leadership | Quality Engineering Leadership
 
-20 years building programs that work. ISB-INSEAD MBA. CPMAI certified. Principal Consultant, Strategic Accounts, Enterprise Program Governance and AI Innovation at Infuse Consulting.
+I run quality engineering and enterprise programs that bridge technology, customer success, and business impact, spanning engineering, product, and executive leadership to drive outcomes.
+
+With 20 years across BFSI, Telecom, EdTech, and Higher Education, I specialise in enterprise program management, quality engineering transformation, strategic account leadership, and AI innovation.
+
+ISB-INSEAD MBA. CPMAI certified. Principal Consultant, Strategic Accounts, Enterprise Program Governance and AI Innovation at Infuse Consulting.
 
 ## What you'll find here
 
