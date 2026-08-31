@@ -5,8 +5,6 @@ I run quality engineering and enterprise programs that bridge technology, custom
 
 With 20 years across BFSI, Telecom, EdTech, and Higher Education, I specialise in enterprise program management, quality engineering transformation, strategic account leadership, and AI innovation.
 
-An ISB-INSEAD MBA and Duke University Product Management education to drive Business Outcomes.
-
 ## What you'll find here
 
 AI-powered program management, QE, and agentic AI tools, designed for enterprise delivery leaders who bridge business, engineering, QA, and product teams. These tools reflect 20 years of on-the-ground program leadership translated into AI-augmented solutions.
