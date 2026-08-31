@@ -5,7 +5,7 @@ I run quality engineering and enterprise programs that bridge technology, custom
 
 With 20 years across BFSI, Telecom, EdTech, and Higher Education, I specialise in enterprise program management, quality engineering transformation, strategic account leadership, and AI innovation.
 
-ISB-INSEAD MBA. CPMAI certified. Principal Consultant, Strategic Accounts, Enterprise Program Governance and AI Innovation at Infuse Consulting.
+An ISB-INSEAD MBA and Duke University Product Management education to drive Business Outcomes.
 
 ## What you'll find here
 
